@@ -2,7 +2,8 @@
 This repository contains a function which will prepare the domain graphs analysis, if you will specify a domain or an interpro, it will give you all the parent and the child graphs for the directed and undirected graphs modelling. I implemented a string pattern search algorithm to make the search faster. 
 ```python
 # for searching all the child categories of the IPR domains
-IPRNetworkPlot("/Users/gauravsablok/Desktop/ipr_analyzer.txt", arg_IPR = "IPR000008", arg_type = "interpro")
+IPRNetworkPlot("/Users/gauravsablok/Desktop/ipr_analyzer.txt", \
+                               arg_IPR = "IPR000008", arg_type = "interpro")
 [['IPR014705',
   'IPR028692',
   'IPR030537',
@@ -13,7 +14,8 @@ IPRNetworkPlot("/Users/gauravsablok/Desktop/ipr_analyzer.txt", arg_IPR = "IPR000
   'IPR037303',
   'IPR047897']]
 # for searching all the child domains of the specific category
-IPRNetworkPlot("/Users/gauravsablok/Desktop/ipr_analyzer.txt", arg_domain = "C2 domain", arg_type = "domain")
+IPRNetworkPlot("/Users/gauravsablok/Desktop/ipr_analyzer.txt", \
+                             arg_domain = "C2 domain", arg_type = "domain")
 [['Synaptotagmin-17, C2B domain',
   'Synaptotagmin-13, C2B domain',
   'Synaptotagmin-12, C2B domain',
