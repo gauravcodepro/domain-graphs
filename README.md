@@ -27,11 +27,6 @@ IPRNetworkPlot("/Users/gauravsablok/Desktop/ipr_analyzer.txt", \
   'Synaptotagmins 15/17, C2A domain']]
 ```
 Gaurav Sablok \
-Senior Postdoctoral Fellow \
-Faculty of Natural and Agricultural Sciences Room 7-35, \
-Agricultural Sciences Building University of Pretoria, \
-Private Bag X20 Hatfield 0028, South Africa \
-Academia : https://up-za.academia.edu/GauravSablok \
 Frontiers: https://loop.frontiersin.org/people/33293/overview \
 ORCID: https://orcid.org/0000-0002-4157-9405 \
 WOS: https://www.webofscience.com/wos/author/record/C-5940-2014 \
