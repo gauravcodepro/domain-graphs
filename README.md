@@ -1,4 +1,4 @@
-# bacterial_plant_fungal_domain_directed_graphs
+# domain-directed-graphs
 This repository contains a function which will prepare the domain graphs analysis, if you will specify a domain or an interpro, it will give you all the parent and the child graphs for the directed and undirected graphs modelling. I implemented a string pattern search algorithm to make the search faster. 
 ```python
 # for searching all the child categories of the IPR domains
