@@ -26,7 +26,7 @@ IPRNetworkPlot("/Users/gauravsablok/Desktop/ipr_analyzer.txt", \
   'Synaptotagmin-like protein 4/5, C2A domain',
   'Synaptotagmins 15/17, C2A domain']]
 ```
-Gaurav Sablok \
+Gaurav \
 Academic Staff Member \
 Bioinformatics \
 Institute for Biochemistry and Biology \
