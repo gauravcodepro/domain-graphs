@@ -1,6 +1,9 @@
-# domain-directed-graphs
-This repository contains a function which will prepare the domain graphs analysis, if you will specify a domain or an interpro, it will give you all the parent and the child graphs for the directed and undirected graphs modelling. I implemented a string pattern search algorithm to make the search faster. 
-```python
+#### domain-graphs
+
+- This repository contains a function which will prepare the domain graphs analysis, if you will specify a domain or an interpro, it will give you all the parent and the child for the directed and undirected graphs modelling.
+- I implemented a string pattern search algorithm to make the search faster.
+  
+```
 # for searching all the child categories of the IPR domains
 IPRNetworkPlot("/Users/gauravsablok/Desktop/ipr_analyzer.txt", \
                                arg_IPR = "IPR000008", arg_type = "interpro")
@@ -26,9 +29,4 @@ IPRNetworkPlot("/Users/gauravsablok/Desktop/ipr_analyzer.txt", \
   'Synaptotagmin-like protein 4/5, C2A domain',
   'Synaptotagmins 15/17, C2A domain']]
 ```
-Gaurav \
-Academic Staff Member \
-Bioinformatics \
-Institute for Biochemistry and Biology \
-University of Potsdam \
-Potsdam,Germany
+Gaurav Sablok
